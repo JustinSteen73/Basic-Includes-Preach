@@ -1,1 +1,2 @@
 To play Preach load and run BASE.bas using DosBox and Basica
+1) Download DosBox
